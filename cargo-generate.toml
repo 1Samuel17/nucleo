@@ -1,0 +1,6 @@
+[template]
+exclude = [
+    "target/",
+    ".DS_Store",
+    "**/.DS_Store"
+]
